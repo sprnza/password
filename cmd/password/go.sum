@@ -1,8 +1,8 @@
-github.com/Luzifer/go_helpers/v2 v2.9.0/go.mod h1:nF5Xu5C2TgCuejZWoXVpS6KnX3LDefFBM5+qQ87hEto=
-github.com/Luzifer/go_helpers/v2 v2.9.1 h1:MVUOlD6tJ2m/iTF0hllnI/QVZH5kI+TikUm1WRGg/c4=
-github.com/Luzifer/go_helpers/v2 v2.9.1/go.mod h1:ZnWxPjyCdQ4rZP3kNiMSUW/7FigU1X9Rz8XopdJ5ZCU=
-github.com/Luzifer/password/v2 v2.0.1 h1:p1q66RtLAXsAw3GYKKMPctavs1YQehjEoFSWMLKuo68=
-github.com/Luzifer/password/v2 v2.0.1/go.mod h1:tnWOAJaV9uK92wAUmZZ2BNiZdiWCSQ/gMiaDMSyOBBM=
+github.com/sprnza/go_helpers/v2 v2.9.0/go.mod h1:nF5Xu5C2TgCuejZWoXVpS6KnX3LDefFBM5+qQ87hEto=
+github.com/sprnza/go_helpers/v2 v2.9.1 h1:MVUOlD6tJ2m/iTF0hllnI/QVZH5kI+TikUm1WRGg/c4=
+github.com/sprnza/go_helpers/v2 v2.9.1/go.mod h1:ZnWxPjyCdQ4rZP3kNiMSUW/7FigU1X9Rz8XopdJ5ZCU=
+github.com/sprnza/password/v2 v2.0.1 h1:p1q66RtLAXsAw3GYKKMPctavs1YQehjEoFSWMLKuo68=
+github.com/sprnza/password/v2 v2.0.1/go.mod h1:tnWOAJaV9uK92wAUmZZ2BNiZdiWCSQ/gMiaDMSyOBBM=
 github.com/gorilla/mux v1.7.0 h1:tOSd0UKHQd6urX6ApfOn4XdBMY6Sh1MfxV3kmaazO+U=
 github.com/gorilla/mux v1.7.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf/go.mod h1:hyb9oH7vZsitZCiBt0ZvifOrB+qc8PS5IiilCIb87rg=

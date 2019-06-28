@@ -11,8 +11,8 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/spf13/cobra"
 
-	http_helper "github.com/Luzifer/go_helpers/v2/http"
-	pwd "github.com/Luzifer/password/v2/lib"
+	http_helper "github.com/sprnza/go_helpers/v2/http"
+	pwd "github.com/sprnza/password/v2/lib"
 )
 
 func getCmdServe() *cobra.Command {

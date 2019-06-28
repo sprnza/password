@@ -3,8 +3,8 @@ module password
 go 1.12
 
 require (
-	github.com/Luzifer/go_helpers/v2 v2.9.1
-	github.com/Luzifer/password/v2 v2.0.1
+	github.com/sprnza/go_helpers/v2 v2.9.1
+	github.com/sprnza/password/v2 v2.0.1
 	github.com/gorilla/mux v1.7.0
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3 // indirect

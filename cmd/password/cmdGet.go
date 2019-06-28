@@ -7,8 +7,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/Luzifer/password/v2/hasher"
-	pwd "github.com/Luzifer/password/v2/lib"
+	"github.com/sprnza/password/v2/hasher"
+	pwd "github.com/sprnza/password/v2/lib"
 )
 
 func getCmdGet() *cobra.Command {
