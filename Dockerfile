@@ -1,7 +1,7 @@
 FROM golang:alpine as builder
 
-COPY . /src/github.com/Luzifer/password
-WORKDIR /src/github.com/Luzifer/password/cmd/password
+COPY . /src/github.com/sprnza/password
+WORKDIR /src/github.com/sprnza/password/cmd/password
 
 RUN set -ex \
  && apk add --update git \
@@ -20,7 +20,7 @@ COPY --from=builder /go/bin/password /usr/local/bin/password
 
 EXPOSE 3000
 
-ENTRYPOINT ["/usr/local/bin/password"]
+ENTRYPOINT ["/usr/local/bin/password", "serve"]
 CMD ["--"]
 
 # vim: set ft=Dockerfile:
