@@ -1,5 +1,5 @@
 // Package securepassword implements a password generator and check.
-package securepassword // import "github.com/Luzifer/password/lib"
+package securepassword // import "github.com/sprnza/password/lib"
 
 import (
 	"errors"
